@@ -39,7 +39,7 @@ sudo docker run hello-world
 }
 
 resource "aws_security_group" "docker-host-sg" {
-  name        = "controler-sg"
+  name        = "docker-host-sg"
   description = "Allow SSH from local PC"
 
   ingress {
