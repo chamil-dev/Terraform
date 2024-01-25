@@ -1,2 +1,4 @@
-# Terraform
-# EC2 instance for docker deployment 
+# Terraform Deployments
+# Dcoker-Host-Deployment
+EC2 Instance deployment for docker 
+This includes security group with SSH allow from local PC
